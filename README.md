@@ -32,5 +32,5 @@ A library of network equipment designed to quickly create drawings of telecommun
 
 # Images/Изображения:
 
-## An example of a finished drawing/Пример готового чертежа
+## An example of a finished drawing/Пример готового чертежа:
 <img width="9185" height="11518" alt="Пример" src="https://github.com/user-attachments/assets/326d7ade-2722-409a-9a1e-6441363bbe80" />
