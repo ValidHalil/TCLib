@@ -10,9 +10,7 @@ A library of network equipment designed to quickly create drawings of telecommun
 
 ## Installation:
 
-1. Download the modules folder and import all or only the necessary ones.
-
-2. Alternatively, download the full library as a single file (not recommended due to the size of the images!).
+Download the modules folder and import all or only the necessary ones.
 
 # RU: TCLib для Draw.io
 
@@ -26,9 +24,7 @@ A library of network equipment designed to quickly create drawings of telecommun
 
 ## Установка:
 
-1. Загрузить папку с модулями и импортировать все или только необходимые.
-
-2. В качестве альтернативы загрузить полную библиотеку одним файлом (не рекомендуется из-за размера изображений!).
+Загрузить папку с модулями и импортировать все или только необходимые.
 
 # Images/Изображения:
 
